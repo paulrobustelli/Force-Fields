@@ -57,7 +57,7 @@ These viparr implementations are *not* official D.E. Shaw Research releases, and
 DES-amber has charges an ions that are scaled by a factor of 0.9       
 
 This means if you are combining this force fields with lipids, ligands, or nucleic acids
-with net  charges, the total charge of the system will not be equal 
+with net  charges, the total charge of the system will not be neutral  
 
 You can either scale the charges of the other molecules (not recommended )
 or use DES-amber_SF1.0 (scale factor 1.0) which does not contain scaled charges        
