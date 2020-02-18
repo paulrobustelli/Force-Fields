@@ -38,7 +38,10 @@ To ensure accuracy for your system, you should compare FF energies to energies o
 The gromacs implementation of a99SBdisp.ff contians parameters for c22ions and a99SBdisp water
 
 These parameters can be compared against
-Desmond/a99SBdisp_viparr-ff/
+
+Robutselli_Lab_ForceFields/Desmond 
+
+a99SBdisp_viparr-ff/
 aa.amber.ff99SB-disp  ions.charmm22  water.tip4pd-1.6
 
 These a99SBdisp parameters were taken from the public viparr-ff repository  
@@ -47,7 +50,8 @@ https://github.com/DEShawResearch/viparr-ffpublic
 ##### DES-amber Notes   ######
 The gromacs implementations of des-amber.ff and des-amber-SF1.0.ff contain their own ion parameters and tip4p-D wtaer parameters and can be compared to:
 
-Robustelli_Lab_ForceFields/Desmond
+Robustelli_Lab_ForceFields/Desmond/
+
 des-amber  des-amber-SF1.0  water.tip4pd
 
 These viparr implementations are *not* official D.E. Shaw Research releases, and should be considered personal implementations.  D.E. Shaw Research should be contacted about official DES-amber viparr force field releases.
