@@ -39,16 +39,15 @@ The gromacs implementation of a99SBdisp.ff contians parameters for c22ions and a
 
 These parameters can be compared against
 
-Robutselli_Lab_ForceFields/Desmond 
+Robutselli_Lab_ForceFields/Desmond/a99SBdisp_viparr-ff/
 
-a99SBdisp_viparr-ff/
 aa.amber.ff99SB-disp  ions.charmm22  water.tip4pd-1.6
 
 These a99SBdisp parameters were taken from the public viparr-ff repository  
 https://github.com/DEShawResearch/viparr-ffpublic
 
 ##### DES-amber Notes   ######
-The gromacs implementations of des-amber.ff and des-amber-SF1.0.ff contain their own ion parameters and tip4p-D wtaer parameters and can be compared to:
+The gromacs implementations of des-amber.ff and des-amber-SF1.0.ff contain their own ion parameters and TIP4P-D water parameters and can be compared to:
 
 Robustelli_Lab_ForceFields/Desmond/
 
@@ -58,10 +57,10 @@ These viparr implementations are *not* official D.E. Shaw Research releases, and
 
 ##### Note on DES-amber Charge Scaling ######
 
-DES-amber has charges an ions that are scaled by a factor of 0.9       
+DES-amber has charges and charged ions that are scaled by a factor of 0.9       
 
 This means if you are combining this force fields with lipids, ligands, or nucleic acids
-with net  charges, the total charge of the system will not be neutral  
+with net charges, the total charge of the system will not be neutral  
 
 You can either scale the charges of the other molecules (not recommended )
 or use DES-amber_SF1.0 (scale factor 1.0) which does not contain scaled charges        
