@@ -1,6 +1,5 @@
 # Force-Fields
-Force Fields
-Thank your interest in the a99SB-disp, DES-amber, and DES-amberSF1.0 force fields.
+Thank your interest in the TIP4P-D, a99SB-disp, DES-amber, and DES-amberSF1.0 force fields.
 
 #######Please Cite: ###########
 
