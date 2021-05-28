@@ -1,0 +1,34 @@
+{
+    "info" : [
+        "Lindorff-Larsen et al. (2010),  Proteins 78:1950-1958",
+        "Best et al. (2009), J. Phys. Chem. B. 113:9005-9015",
+        "Wang et al. (2000), J. Comp. Chem. 21:1049-1074",
+        "Hornak et al. (2006), Proteins: Structure, Function and Genetics, 3:712-725.",
+        "Parameter sets obtained from AmberTools v12.13",
+        "viparr forcefield generated using modified leaprc.ff99SBildn forcefield"
+    ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "arithmetic/geometric", 
+    "exclusions" : 4, 
+   "nbfix_identifier" : "des-amber",
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "bonds",
+        "angles",
+        "propers",
+        "impropers",
+        "vdw1",
+        "vdw2",
+        "exclusions",
+        "mass"
+    ]
+}

@@ -1,0 +1,59 @@
+# v4:
+# Modified THR and SER side-chains based on Kirkwood-Buff integrals for Ethanol
+# Modified Arg parameters based on protein-RNA simulations
+# v5:
+# cleaned up charges for zwitterionic and temrinal residues.
+# met
+# Applied Joung and Cheatham param,eters for Na, K and Cl.  Reverted Met non-bonded parameters to standard Amber99SB.
+#
+#met3
+# Reduced radius of K and Cl by 0.1 A
+# Made radius of charged amine the same as K
+
+#met4
+# Rescaled epsilon of O2 by 1/10 (0.21 -> 0.02) and rescaled sigma to 3.6 to keep C12 constant
+
+#ch1.0_met4
+# rescaled charges on ions to 1.0.  Kept charges of zwitterions.
+
+#ch1.0_met4
+# Increased N3 sigma by 0.1 
+
+#ch1.0_met7
+# Moved 0.2 units of charge from CD to NZ in LYS and 0.3 units of charge from CZ to N in ARG
+
+#ch1.0_met8
+# Moved 0.1 units of charge from CD to NZ in LYS.  Reduced sigma of NR by 0.1 A             
+
+#ch1.0_met9
+# Moved 0.1 units of charge from CG to NZ in LYS.  Reduced sigma of NR by 0.05 A.  Moved -0.2 unites of charge from C to CA of ALA2             
+
+#ch1.0_met10
+# Moved -0.1 units of charge from C to CA of ALA2. Moved 0.3 units of charge from CZ to the Nitrogen atoms of ARG.
+
+#ch1.0_met11
+# decreased sigma of Na+ by 0.1 and increased sigma of Cl- by 0.1
+
+#ch1.0_met12
+# increased sigma of Cl- by 0.1
+
+#ch1.0_met13
+# Increased N3 sigma by 0.2 
+
+#ch1.0_met14
+# decreased sigma of Cl- by 0.3
+
+#ch1.0_met15
+# decreased sigma of O2 by 0.1; increased sigma of N3 by 0.05
+
+#ch1.0_met16
+# decreased sigma of N3 and NR by 0.05
+
+#ch1.0_met17
+# Increased sigma of K and O2 by 0.05; moved 0.1 units of charge from CG of ARG to CZ and HE
+
+#ch1.0_met18
+# Increased of O2 by 0.05 (same as met14)
+# Introduced specific Mg-Owat pair tuned to reproduce RDF and affinity for negatively charged groups
+# Parametrized MG sigma using tRNA simulations.  The result is suboptimal, but it is as good as it gets.
+

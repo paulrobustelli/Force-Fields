@@ -1,0 +1,11 @@
+{
+   "info" : ["Original ion parameters used with charmm forcefields.",
+             "Beglov et al. (1994), J. Chem. Phys. 100, 9050-9063 (ions)",
+             "parameter sets obtained from http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/toppar_c36_aug12.tgz"],
+   "vdw_func" : "LJ12_6_sig_epsilon",
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "exclusions" : 4,
+   "es_scale" : [0.0, 0.0, 1.0],
+   "lj_scale" : [0.0, 0.0, 1.0],
+   "plugins" : ["bonds", "vdw1", "exclusions", "mass"]
+}

@@ -1,0 +1,3 @@
+tip4pd   TIP4P-D   TIP 4-point with increased dispersion
+tip4pd_rerun  TIP4P-D  TIP4P-D used for rerunning from DESMOND trajectories
+tip3p   TIP3P   DO NOT USE the TIP3P water model.  Included only for FF debugging

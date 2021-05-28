@@ -1,0 +1,29 @@
+{
+    "info" : [ "Amber ff99SB-ILDN protein forcefield with additional vdw and torsion modifications. For use with water.tip4pd-1.6 model",
+               "Robustelli et al. (2018) PNAS, 115 (21) E4758-E4766",
+               "Lindorff-Larsen et al. (2010),  Proteins 78:1950-1958" ], 
+    "vdw_func" : "lj12_6_sig_epsilon", 
+    "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC", 
+    "nbfix_identifier" : "amber-disp",
+    "exclusions" : 4, 
+    "es_scale" : [
+        0.0,
+        0.0,
+        0.8333
+    ], 
+    "lj_scale" : [
+        0.0,
+        0.0,
+        0.5
+    ], 
+    "plugins" : [
+        "bonds",
+        "angles",
+        "propers",
+        "impropers",
+        "vdw1",
+        "vdw2",
+        "exclusions",
+        "mass"
+    ]
+}

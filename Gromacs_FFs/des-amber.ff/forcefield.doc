@@ -1,0 +1,13 @@
+DES_Amber         
+
+***************************************************************************
+*  This is a conversion of the DES-Amber force-field from Desmond         *
+*  DES-Amber has charges an ions that are scaled by a factor of 0.9       *
+*  This means if you are combining thisforce fields with lipids or        *
+*  ligands with  charges, the total charge of the system will not be equal*
+*  charges, the total charge of the system will not be equal              *
+*  You can either scale the charges of the other molecules, or use        *
+*  DES-amber_SF1.0 (scale factor 1.0) which does not scale charges        *
+*  For DES-Amber cite:                                                    *
+*  Piana, Robustelli, Tan, Chen and Shaw  JCTC (2019)                     *
+***************************************************************************

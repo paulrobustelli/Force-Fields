@@ -1,0 +1,17 @@
+[
+   {"type": ["HT"], "params": {"sigma": 0.40001352444501232325, "epsilon": 0.046}, "memo": ""},
+   {"type": ["OT"], "params": {"sigma": 3.15057422683149572370, "epsilon": 0.1521}, "memo": ""},
+   {"type": ["OX"], "params": {"sigma": 3.0290556416771534500000, "epsilon": 0.120000}, "memo": "ALLOW   POL ION"},
+   {"type": ["HX"], "params": {"sigma": 0.4000135244450123232500, "epsilon": 0.046000}, "memo": "ALLOW PEP POL SUL ARO ALC"},
+   {"type": ["Li+"], "params": {"sigma": 2.31188217357418035375, "epsilon": 0.00233}, "memo": "Lithium"},
+   {"type": ["Na+"], "params": {"sigma": 2.429926253727775304375, "epsilon": 0.0469}, "memo": "Sodium"},
+   {"type": ["Mg2+"], "params": {"sigma": 2.111429961992604022500, "epsilon": 0.0150}, "memo": "Magnesium"},
+   {"type": ["K+"], "params": {"sigma": 3.142645228240046704375, "epsilon": 0.0870}, "memo": "Potassium"},
+   {"type": ["Ca2+"], "params": {"sigma": 2.4357170953956875095, "epsilon": 0.120}, "memo": "Calcium"},
+   {"type": ["Rb+"], "params": {"sigma": 3.385415128933289150, "epsilon": 0.15}, "memo": "Rubidium"},
+   {"type": ["Cs+"], "params": {"sigma": 3.7417746161894248500, "epsilon": 0.1900}, "memo": "Cesium"},
+   {"type": ["Ba2+"], "params": {"sigma": 3.3675971545704823650, "epsilon": 0.150}, "memo": "Barium"},
+   {"type": ["Zn2+"], "params": {"sigma": 1.9421592055459395650000, "epsilon": 0.250000}, "memo": "Zinc"},
+   {"type": ["Cd2+"], "params": {"sigma": 2.4178991210328807245000, "epsilon": 0.120000}, "memo": "Cadmium"},
+   {"type": ["Cl-"], "params": {"sigma": 4.044680180357140195, "epsilon": 0.150}, "memo": "Chloride"}
+]

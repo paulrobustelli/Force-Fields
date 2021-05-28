@@ -1,0 +1,5 @@
+[
+   {"type": ["HT", "HT"], "params": {"r0": 1.5139, "fc": 0.0}, "memo": "from TIPS3P geometry (for SHAKE w/PARAM)"},
+   {"type": ["HT", "OT"], "params": {"r0": 0.9572, "fc": 450.0}, "memo": "from TIPS3P geometry"},
+   {"type": ["OX", "HX"], "params": {"r0": 0.9700, "fc": 545.0}, "memo": "hydroxide ion"}
+]

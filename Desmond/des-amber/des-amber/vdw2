@@ -1,0 +1,3 @@
+[
+   { "type" : ["MG", "OW"],  "params" : { "sigma" : 3.004,  "epsilon" : 0.025914 },  "memo" : "MG-OW override" }
+]

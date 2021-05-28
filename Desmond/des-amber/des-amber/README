@@ -1,0 +1,5 @@
+# v4:
+# Modified THR and SER side-chains based on Kirkwood-Buff integrals for Ethanol
+# Modified Arg parameters based on protein-RNA simulations
+# v5:
+# cleaned up charges for zwitterionic and temrinal residues.

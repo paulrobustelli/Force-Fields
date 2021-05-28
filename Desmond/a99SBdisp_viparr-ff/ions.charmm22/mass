@@ -1,0 +1,17 @@
+[
+   {"type": ["HT"], "params": {"amu": 1.00800}, "memo": ""},
+   {"type": ["HX"], "params": {"amu": 1.00800}, "memo": ""},
+   {"type": ["OT"], "params": {"amu": 15.99940}, "memo": ""},
+   {"type": ["OX"], "params": {"amu": 15.99940}, "memo": ""},
+   {"type": ["Li+"], "params": {"amu": 6.94100}, "memo": ""},
+   {"type": ["Na+"], "params": {"amu": 22.98977}, "memo": ""},
+   {"type": ["Mg2+"], "params": {"amu": 24.30500}, "memo": ""},
+   {"type": ["K+"], "params": {"amu": 39.09830}, "memo": ""},
+   {"type": ["Ca2+"], "params": {"amu": 40.08000}, "memo": ""},
+   {"type": ["Rb+"], "params": {"amu": 85.46780}, "memo": ""},
+   {"type": ["Cs+"], "params": {"amu": 132.90545}, "memo": ""},
+   {"type": ["Ba2+"], "params": {"amu": 137.32700}, "memo": ""},
+   {"type": ["Zn2+"], "params": {"amu": 65.37000}, "memo": ""},
+   {"type": ["Cd2+"], "params": {"amu": 112.41100}, "memo": ""},
+   {"type": ["Cl-"], "params": {"amu": 35.45000}, "memo": ""}
+]

@@ -1,0 +1,30 @@
+[ moleculetype ]
+; molname	nrexcl
+SOL		1
+
+[ atoms ]
+; 	at type	      res nr  res name	at name	      cg nr	charge	   mass
+1       OW           	1	SOL	OW		1	0        16.00000
+2	Vrt             1	SOL	MW 		1      -1.1800    0.00000
+3	HW       	1	SOL	HW1		1	0.5900 	  1.00800
+4	HW	        1	SOL	HW2		1	0.5900 	  1.00800
+
+; SETTLE needs to be removed as it is hardcoded that the order of the atoms should be O H H Vrt
+;[ settles ]
+; i	funct	doh	dhh ---> same as tip4p2005
+;1	1	0.09572	0.15139
+[ bonds ]
+  1   3      1    0.09572  462750.4  ; Amber99Sb-disp
+  1   4      1    0.09572  462750.4  ; Amber99Sb-disp
+  3   4      1    0.15139  462750.4  ; Amber99Sb-disp
+
+[ virtual_sites3 ]
+; Dummy from			funct	a		b
+2	1	3	4	1	0.131937768	0.131937768
+
+[ exclusions ]
+1	2	3	4
+2	1	3	4
+3	1	2	4
+4	1	2	3
+

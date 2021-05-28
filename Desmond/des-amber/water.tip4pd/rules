@@ -1,0 +1,5 @@
+{
+   "plugins" : ["bonds", "angles", "vdw1", "exclusions", "mass", "virtuals"],
+   "vdw_comb_rule" : "ARITHMETIC/GEOMETRIC",
+   "info" : ["tip4pd 4-site water model", "Piana et al. (2015) J. Phys. Chem. B. 119, 5113-5123"]
+}

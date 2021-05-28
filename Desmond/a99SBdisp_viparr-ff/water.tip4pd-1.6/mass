@@ -1,0 +1,5 @@
+[
+   {"type": ["HW"], "params": {"amu": 1.0080}, "memo": ""},
+   {"type": ["OW"], "params": {"amu": 15.9994}, "memo": ""},
+   {"type": ["Vrt"], "params": {"amu": 0.0}, "memo": ""}
+]
