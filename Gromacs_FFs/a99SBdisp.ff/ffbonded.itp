@@ -196,9 +196,11 @@
  C   C9  HC     1    109.500  418.400  ; Amber99Sb-disp
  C9  CT  N2     1    111.200  669.440  ; Amber99Sb-disp
  C8  CT  N      1    109.700  669.440  ; Amber99Sb-disp
+ C8  CT  N3     1    111.200  669.440  ; Amber99Sb-disp
  C   CT  C8     1    111.100  527.184  ; Amber99Sb-disp
  C8  CT  HC     1    109.500  418.400  ; Amber99Sb-disp
  C8  CT  H1     1    109.500  418.400  ; Amber99Sb-disp
+ C8  CT  HP     1    109.500  418.400  ; Amber99Sb-disp
  H4  C   N      1    120.000  418.400  ; Amber99Sb-disp
  HW  OW  HW     1    104.520  836.800  ; Amber99Sb-disp
  HW  HW  OW     1    127.740    0.000  ; Amber99Sb-disp
