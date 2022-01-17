@@ -17,6 +17,16 @@ Journal of Chemical Theory and Computation
 
 ###############################
 
+#### Experimental Data For Force Field Validation ####
+
+Experimental data used to validate the a99SB-disp force field described in (Robustelli et al, PNAS, 2018) is available for download:
+
+https://www.dropbox.com/s/vl6yrpl0el5uabc/a99SBdisp_PNAS_2018.experimental_data.tar?dl=0
+
+
+##############################
+
+
 a99SB-disp is intended for use with the a99SBdisp water model and c22 ions.
 
 DES-amber and DES-amberSF1.10 parameres are intended for use with the TIP4P-D water model, and contain their own ion parameters
