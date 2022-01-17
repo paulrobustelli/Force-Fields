@@ -11,9 +11,7 @@ Developing a molecular dynamics force field for both folded and disordered prote
 P Robustelli, S Piana, DE Shaw
 Proceedings of the National Academy of Sciences 115 (21), E4758-E4766
 
-Development of a force field for the simulation of single-chain proteins and protein-protein complexes
-S Piana, P Robustelli, D Tan, S Chen, DE Shaw
-Journal of Chemical Theory and Computation
+Piana, S., Robustelli, P., Tan, D., Chen, S. and Shaw, D.E., 2020. Development of a force field for the simulation of single-chain proteins and protein–protein complexes. Journal of chemical theory and computation, 16(4), pp.2494-2507.
 
 ###############################
 
