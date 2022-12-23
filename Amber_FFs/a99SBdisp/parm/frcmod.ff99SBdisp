@@ -417,7 +417,7 @@ X -O2-C6-O2       10.500      180.0            2            Amber99Sb-disp
 X -X -C5-O        10.500      180.0            2            Amber99Sb-disp
 
 NONB
-  C1          1.9080  0.0860             Spellmeyer
+  C1          1.9080  0.1094             Spellmeyer
   C3          1.9080  0.1094             Spellmeyer
   C4          1.9080  0.1094             Spellmeyer
   C5          1.9080  0.0860             OPLS
