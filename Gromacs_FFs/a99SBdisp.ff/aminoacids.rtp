@@ -2605,8 +2605,7 @@
      C   OC2
     -C     N
  [ impropers ]
-    -C     N     CA    C    90.0        1.67360    2 
-    CA   OC1     C   OC2    
+    CA   OC1     C   OC2
     -C    CD     N    CA    
                         
 [ CCYS ]
