@@ -26,12 +26,12 @@
 [ HO4 ]
  [ atoms ]
     OW   OW_tip4p      0.00     0
-   HW1   HW            0.52     0
    HW2   HW            0.52     0
-    MW   MW           -1.04     0
+   HW3   HW            0.52     0
+   MW4   MW           -1.04     0
  [ bonds ]
-    OW   HW1
     OW   HW2
+    OW   HW3
 
 [ IB+ ] ; big positive ion
  [ atoms ]
