@@ -6,11 +6,11 @@ exception, the [parm99.dat](parm/parm99.dat) file has not been changed (the same
 ```code-block:: bash
     # copy cmd files
     cp cmd/leaprc.protein.ff99SBdisp $AMBERHOME/dat/leap/cmd/.
-    cp cmd/leaprc.protein.ff99SBdisp $AMBERHOME/dat/leap/cmd/.
+    cp cmd/leaprc.water.tip4pd_disp $AMBERHOME/dat/leap/cmd/.
   
     # copy parm files 
-    cp parm/frcmod.ff99SBdisp $AMBERHOME/dat/leap/cmd/.
-    cp parm/frcmod.tip4pd_disp $AMBERHOME/dat/leap/cmd/.
+    cp parm/frcmod.ff99SBdisp $AMBERHOME/dat/leap/parm/.
+    cp parm/frcmod.tip4pd_disp $AMBERHOME/dat/leap/parm/.
      
     # copy lib files  
     cp lib/all_amino94disp.lib $AMBERHOME/dat/leap/lib/.
