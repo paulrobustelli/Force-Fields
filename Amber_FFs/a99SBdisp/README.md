@@ -1,7 +1,6 @@
 ## Installation
 
-You should copy the [cmd](cmd), [lib](lib) and [parm](parm) files into the standard Amber directories. With one
-exception, the [parm99.dat](parm/parm99.dat) file has not been changed (the same as for amber99sb).
+You should copy the [cmd](cmd), [lib](lib) and [parm](parm) files into the standard Amber directories.
 
 ```code-block:: bash
     # copy cmd files
