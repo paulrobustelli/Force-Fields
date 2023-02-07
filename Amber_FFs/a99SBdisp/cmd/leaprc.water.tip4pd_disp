@@ -67,7 +67,7 @@ addAtomTypes {
 }
 loadOff atomic_ions.lib
 loadOff solvents.lib
-loadOff tip4pd_disp_box.off
+loadOff tip4pdbox_disp.off
 HOH = T4D
 WAT = T4D
 loadAmberParams frcmod.tip4pd_disp
