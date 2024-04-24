@@ -496,6 +496,7 @@
  CT  CV  CC  NA    4     180.0      4.60240     2  ; Amber99Sb-disp
  CT  CW  CC  NB    4     180.0      4.60240     2  ; Amber99Sb-disp
  CT  CC  CW  NB    4     180.0      4.60240     2  ; Amber99Sb-disp
+ CT  CW  CC  NA    4     180.0      4.60240     2  ; Amber99Sb-disp
  CT  CC  CW  NA    4     180.0      4.60240     2  ; Amber99Sb-disp
  CB  CT  C*  CW    4     180.0      4.60240     2  ; Amber99Sb-disp
  CA  CA  CA  CT    4     180.0      4.60240     2  ; Amber99Sb-disp
